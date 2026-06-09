@@ -1,0 +1,183 @@
+Professor: Brad Voytek
+School: University of California San Diego
+Department: Cognitive Science
+Overall Quality: 4.7 / 5.0
+Would Take Again: 94.7%
+Difficulty: 2.0 / 5.0
+Total Ratings: 22
+
+---
+Date: 2024-12-28
+Course: COGS9
+Rating: 5.0
+Difficulty: 1.0
+Comment: Voytek was honestly an amazing professor. This class was very interesting. Also, I highly suggest getting to know him as he has many connections and could help you in the future (internships, interviews, etc.). He is kind and welcoming. Very easy class. It's great if you want an easy A.
+Tags: Get ready to read, Group projects, Amazing lectures
+
+---
+Date: 2024-12-18
+Course: COGS9
+Rating: 5.0
+Difficulty: 2.0
+Comment: He's a great professor and his lectures were very entertaining. As long as you show up you will get an A
+Tags: Amazing lectures, Clear grading criteria, Respected
+
+---
+Date: 2024-12-11
+Course: COGS9
+Rating: 5.0
+Difficulty: 2.0
+Comment: Very easy class. The assignments and readings are straightforward since you can use Ctrl + F for the questions. The tests aren't that hard, he gives you a study guide and if you what each of the terms you'll pretty much get an A+. Very skippable lecture but I still showed up since he is a great teacher and very passionate.
+Tags: Group projects, Hilarious, Online Savvy
+
+---
+Date: 2024-12-02
+Course: COGS9
+Rating: 5.0
+Difficulty: 1.0
+Comment: Professor Voytek was both an amazing professor and person. His lectures would get boring at points but it was still interesting to sit and listen to him talk. His assignments are very easy and the overall content is easy to understand. Would take again if I have the opportunity.
+Tags: Group projects, Amazing lectures, Clear grading criteria
+
+---
+Date: 2024-10-10
+Course: COGS9
+Rating: 5.0
+Difficulty: 5.0
+Comment: Voytek is very passionate about data and cognitive science and if you google him he's actually a bit famous. The whole point of the class is to change the way you think about a certain field and he does it perfectly. Pretty easy class but every now and then he makes you read long pages and take quizzes on them but they're pretty easy. Take him
+Tags: Get ready to read, Inspirational, Lecture heavy
+
+---
+Date: 2024-02-08
+Course: COGS9
+Rating: 5.0
+Difficulty: 2.0
+Comment: Very intelligent and charismatic prof. He's very passionate about Data Science and it is reflected in the way he teaches his class. Overall assignments are straightforward and exams might involve specific references not covered in slides. Try to attend the lectures in person!
+Tags: 
+
+---
+Date: 2023-12-06
+Course: COGS9
+Rating: 5.0
+Difficulty: 2.0
+Comment: Dr. Voytek is one of my favorite professor at UCSD. He's pretty nice and care about his students. His lectures are useful and easy to understand. Also, exam so easy. This class gave me lots of knowledge and data science information.
+Tags: Group projects, Amazing lectures, Clear grading criteria
+
+---
+Date: 2020-03-13
+Course: COGS9
+Rating: 5.0
+Difficulty: 2.0
+Comment: One of the best professors I've ever had.
+Tags: Respected, Inspirational, Group projects
+
+---
+Date: 2020-02-11
+Course: COGS9
+Rating: 5.0
+Difficulty: 2.0
+Comment: One of the best professors in Cog/DSC dept. Lectures were inspirational rather than informative. Tests were mostly based on lectures. Very accessible and friendly outside of the classes!
+Tags: Accessible outside class, Amazing lectures, Caring
+
+---
+Date: 2017-06-17
+Course: COGS108
+Rating: 5.0
+Difficulty: 2.0
+Comment: I don't even know where to begin, Professor Voytek is such an AMAZING person! I took his Cogs 108 Data Science class and really learned a lot. This class consisted of 5 main programming assignments and a final group project. No tests, just solely project based which is a plus. If you have the chance, take any class with Professor Voytek.
+Tags: Respected, Inspirational, Clear grading criteria
+
+---
+Date: 2017-02-16
+Course: COGS1
+Rating: 5.0
+Difficulty: 2.0
+Comment: He really makes an effort to make lectures interesting and easy to understand! I never skipped a lecture b/c they were so interesting. HW was super easy, and midterm+final all multiple choice. He seems like a really nice and cool guy and really passionate about cog sci! I'm so glad I took this class and 100% recommend this prof.
+Tags: Respected, Inspirational, Amazing lectures
+
+---
+Date: 2017-01-09
+Course: COGS1
+Rating: 4.0
+Difficulty: 1.0
+Comment: I took this class for fun and it was interesting. A lot of guest speakers here and there. He posts up slides and this class is podcasted. The midterm and final are all multiple choice. You get around six assignments in discussion.
+Tags: 
+
+---
+Date: 2016-12-17
+Course: COGS1
+Rating: 5.0
+Difficulty: 2.0
+Comment: I honestly can say I enjoyed going to this class every lecture. The professor always made lectures super interesting and I was able to retain what I learned even after I had completed the final exam. Most assignments were completed in groups and exams were not too challenging after reviewing the material.
+Tags: Respected, Inspirational, GROUP PROJECTS
+
+---
+Date: 2016-12-16
+Course: COGS1
+Rating: 5.0
+Difficulty: 2.0
+Comment: Professor Voytek always had very interesting lectures, and he obviously is genuinely passionate about cognitive science, and his lectures reflect that. The homework assignments were easy, and the midterm + final only required some studying (he provided a study guide) to do well on. Lecture not mandatory but recommended because they're interesting.
+Tags: Amazing lectures
+
+---
+Date: 2016-12-15
+Course: COGS9
+Rating: 4.0
+Difficulty: 1.0
+Comment: Easy class. No exams. 4 projects 60%, 2 mandatory attendance 10%, and 1 final project 30%.  Also finding awesome group members is important if you do not want to do the whole final project by yourself.
+Tags: Gives good feedback, Inspirational, Amazing lectures
+
+---
+Date: 2016-12-12
+Course: COGS1
+Rating: 5.0
+Difficulty: 1.0
+Comment: The poor reviews below are actually quite ridiculous. Complaining about the exams, really? 60% assignments and 10% participation definitely balances it out. Lecture slides didn't have many words, but I found that he did a fine job at distinguishing between what was important and what was a tangent. Amazingly chill professor, stress free course.
+Tags: ACCESSIBLE OUTSIDE CLASS, Caring, LECTURE HEAVY
+
+---
+Date: 2016-12-07
+Course: COGS1
+Rating: 2.0
+Difficulty: 3.0
+Comment: Brad Voytek is one of the chillest teachers I have ever had. But, he is a very disappointing teacher. He talks super slowly, goes on several tangents, and claims the material being tested on is broad but its super specific. He barely even makes the effort to teach. His slides are not detailed at all and most of my notes were taken during discussion
+Tags: GRADED BY FEW THINGS
+
+---
+Date: 2016-11-18
+Course: COGS1
+Rating: 3.0
+Difficulty: 3.0
+Comment: He is a very nice and open guy but often goes on tangents making it super hard to know what you will be tested on (there is no textbook). Also he says his tests are very general but they are very specific and you have to review a lot.
+Tags: Participation matters, ACCESSIBLE OUTSIDE CLASS
+
+---
+Date: 2016-06-16
+Course: COGS9
+Rating: 5.0
+Difficulty: 2.0
+Comment: Super easy A class. 3 essays, each 30 percent. The other 10 percent is attendance and only required for guest speakers (he let you know when). Essay super easy. Grade based on peer evaluation. Most just check "yes" on rubric anyways, so if essay at least makes sense you'll do fine. Got 100 in class with bs essays.
+Tags: 
+
+---
+Date: 2015-12-20
+Course: COGS1
+Rating: 5.0
+Difficulty: 1.0
+Comment: While I was skeptical about Voytek's teaching ability at first, he quickly proved me wrong with his masterful handling of the complex subject of Cognitive Science.  He has never ceased to amaze me. The time just flies by during his lectures, and the tests are ridiculously easy. Easily one of the better professors here at UC San Diego! TAKE HIM!!!!!
+Tags: 
+
+---
+Date: 2015-12-01
+Course: COGS1
+Rating: 5.0
+Difficulty: 2.0
+Comment: Amazing professor. Assignments are easy. Do every assignment, then you will pass. Tests are only 30% total.
+Tags: 
+
+---
+Date: 2015-11-16
+Course: COGS1
+Rating: 4.5
+Difficulty: 2.0
+Comment: Serious and determined to expose the class to the many influences cognitive science has on the world. Absolutely fun to be around. Office hours worth going to. As a prof, very laid back. As a person, highly accessible and lots of opportunity to open up,
+Tags:

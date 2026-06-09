@@ -1,0 +1,223 @@
+Professor: Justin Eldridge
+School: University of California San Diego
+Department: Data Science
+Overall Quality: 4.9 / 5.0
+Would Take Again: 100.0%
+Difficulty: 3.0 / 5.0
+Total Ratings: 27
+
+---
+Date: 2026-02-26
+Course: DSC80
+Rating: 5.0
+Difficulty: 3.0
+Comment: justin is truly the goat
+Tags: Amazing lectures, Inspirational, Respected
+
+---
+Date: 2025-11-20
+Course: DSC140A
+Rating: 5.0
+Difficulty: 3.0
+Comment: Justin Eldridge is a treasure, he's those one in a million professors that you learn so much from and genuinely wants you to succeed. He makes incredibly difficult concepts approachable and understandable.
+Tags: Amazing lectures, Inspirational, Caring
+
+---
+Date: 2025-08-13
+Course: DSC40B
+Rating: 5.0
+Difficulty: 2.0
+Comment: One of the best professors in HDSI. He explains concepts incredibly well and is super organized. You can reach him, always available during his office hours.
+Tags: Get ready to read, Gives good feedback, Lots of homework
+
+---
+Date: 2025-06-25
+Course: DSC40B
+Rating: 5.0
+Difficulty: 3.0
+Comment: He really is a great professor. He lectures really well and makes me genuinely appreciate data science. Highly recommend him as a professor for any of your classes.
+Tags: Amazing lectures, Clear grading criteria, Accessible outside class
+
+---
+Date: 2025-06-09
+Course: DSC40B
+Rating: 5.0
+Difficulty: 3.0
+Comment: super organized and probably the best DSC professor i've taken. he provides great support out of class and his lectures are very clear and interesting. genuinely wanted to learn more in this class and would recommend to anyone
+Tags: Amazing lectures, Hilarious, Accessible outside class
+
+---
+Date: 2025-05-27
+Course: DSC40B
+Rating: 5.0
+Difficulty: 3.0
+Comment: Justin is by far the best teacher I've ever had, if you can take a course him you absolutely should. Consistently made the content understandable and didn't give us an absurd amount of work.
+Tags: 
+
+---
+Date: 2025-04-03
+Course: DSC140A
+Rating: 5.0
+Difficulty: 3.0
+Comment: I absolutely love Justin&#8212;he's hands down the best professor in the Data Science program. I had him for 40B, and he's the reason I took 140A. He explains concepts incredibly well and is super organized. His exams are fair&#8212;if you work through all the practice problems, you'll be in great shape. He genuinely cares about student learning and it shows.
+Tags: Amazing lectures, Caring, Respected
+
+---
+Date: 2025-03-24
+Course: DSC140A
+Rating: 5.0
+Difficulty: 3.0
+Comment: Great professor. Very organized and amazing at explaining difficult concepts. Super knowledgeable about the material and can answer any question you may have. Gives lots of practice problems for midterms. Makes complicated topics simple. Homeworks involve coding in python and doing proofs by hand. I would definitely recommend professor Eldridge.
+Tags: Amazing lectures, Clear grading criteria, Respected
+
+---
+Date: 2025-02-04
+Course: DSC140A
+Rating: 5.0
+Difficulty: 3.0
+Comment: BEST PROF EVER
+Tags: Amazing lectures, Inspirational, Respected
+
+---
+Date: 2024-12-28
+Course: DSC40B
+Rating: 5.0
+Difficulty: 3.0
+Comment: Very organized professor.  Easy to follow lectures - explanations are slow and clear.  He seems very passionate about data science.  1 lab and 1 homework weekly.  He gives lots of practice problems to help prepare for mid-term and final.  Recommend taking his class.
+Tags: Amazing lectures, Clear grading criteria, Respected
+
+---
+Date: 2024-02-15
+Course: DSC80
+Rating: 5.0
+Difficulty: 1.0
+Comment: Awesome!!!
+Tags: Amazing lectures, Inspirational, Hilarious
+
+---
+Date: 2023-01-06
+Course: DSC80
+Rating: 5.0
+Difficulty: 3.0
+Comment: One of the best courses that I've ever taken. There are a lot of homework, and it is what makes this class so good, because they are super related with the classes, materials and specially real world problems. Expect a lot of coding work (DSC 80). Professor Justin is also kind and likes to help the students.
+Tags: Gives good feedback, Inspirational
+
+---
+Date: 2022-01-06
+Course: DSC40A
+Rating: 5.0
+Difficulty: 4.0
+Comment: Justin is my favorite professor in UCSD. I took three classes of his and I learnt a lot. His lectures are super clear, his lecture slides annotations are super neat, his speech is super clear and logical. I can easily tell that Justin cares about students and he puts a lot of effort to help us to learn more and learn better.
+Tags: Clear grading criteria, Amazing lectures, Caring
+
+---
+Date: 2022-01-02
+Course: DSC80
+Rating: 5.0
+Difficulty: 3.0
+Comment: BEST PROFESSOR IN DSC DEPT. I've taken a lot of other classes taught by Justin and all of them were perfect! I learned so much from his lecture and he is very good at explaining difficult concepts.
+Tags: Gives good feedback, Lots of homework, Accessible outside class
+
+---
+Date: 2021-06-03
+Course: DSC80
+Rating: 5.0
+Difficulty: 3.0
+Comment: Probably my Favorite teacher at UCSD, has some of the best lectures of any teacher, Learned a lot in his classes
+Tags: Lots of homework, Amazing lectures, Caring
+
+---
+Date: 2021-05-27
+Course: DSC80
+Rating: 5.0
+Difficulty: 4.0
+Comment: A really good professor and he is always there to help.
+Tags: Respected, Lots of homework, Inspirational
+
+---
+Date: 2020-12-20
+Course: DSC10
+Rating: 5.0
+Difficulty: 2.0
+Comment: Professor Eldridge is an amazing professor. He genuinely wants you to do well in his class and tries to bump up your grade whenever possible. His tests are straightforward as long as you put in the work. Take his class if you get the chance!!!
+Tags: Accessible outside class, Group projects
+
+---
+Date: 2020-12-20
+Course: DSC10
+Rating: 5.0
+Difficulty: 3.0
+Comment: Great professor! He explains concepts in a clear way, and he is always patient in answering students' questions.
+Tags: Respected, Group projects, Amazing lectures
+
+---
+Date: 2020-12-01
+Course: DSC10
+Rating: 4.0
+Difficulty: 3.0
+Comment: Unless you already know Python, going to all the lectures and discussions is a good idea. They also allow you to do homeworks and projects with a partner so I'd highly recommend finding one because homeworks and projects are a significant portion of the grade.
+Tags: Accessible outside class, Skip class? You won't pass.
+
+---
+Date: 2020-06-17
+Course: DSC40B
+Rating: 5.0
+Difficulty: 3.0
+Comment: One of my favorite professors here. He gives very organized lectures and explain complicated concepts clearly. His exams are fair.
+Tags: Inspirational, Amazing lectures, EXTRA CREDIT
+
+---
+Date: 2020-05-30
+Course: DSC40B
+Rating: 5.0
+Difficulty: 3.0
+Comment: One of the most organized and dedicated professor I've known at UCSD. He even wrote a textbook for the course! Strongly recommended!
+Tags: Respected, Inspirational, Amazing lectures
+
+---
+Date: 2020-03-25
+Course: DSC40A
+Rating: 5.0
+Difficulty: 3.0
+Comment: Justin is one of my favorite professors in UCSD and he did really well in explaining mathematical and machine learning related concepts. And his exams are fair. If you attend the lectures, you will get tokens (kind of like extra credits) which help a lot.
+Tags: Inspirational, Amazing lectures, EXTRA CREDIT
+
+---
+Date: 2020-03-12
+Course: DSC40A
+Rating: 5.0
+Difficulty: 4.0
+Comment: Eldridge is my favourite professor at UCSD. His courses are fair and balanced. He has great presentations. Very neat and clear and concise. Though lectures can get quite content heavy, he does a great job explaining everything step by step. Can't go wrong
+Tags: Accessible outside class, Participation matters, Amazing lectures
+
+---
+Date: 2020-02-11
+Course: DSC40A
+Rating: 5.0
+Difficulty: 3.0
+Comment: Lectures were informative rather than inspirational. Good for learning knowledge and applying them. Great prof in the department.
+Tags: Gives good feedback, Respected, Caring
+
+---
+Date: 2020-02-04
+Course: DSC40A
+Rating: 4.0
+Difficulty: 3.0
+Comment: Although the lecture is not that amazing, he's very dedicated in teaching all these materials. I'd definitely recommend him!
+Tags: Gives good feedback, Accessible outside class, Caring
+
+---
+Date: 2019-02-23
+Course: DSC10
+Rating: 4.0
+Difficulty: 3.0
+Comment: Lectures were content-heavy at times, but he was good at explaining concepts consistently. If you don't know Python, it's not an issue. DO NOT SLACK ON THE PROJECTS. Start early, start often. Jupyterhub (Python notebook) were always down right before HW/Projects/Labs were due, so make sure you finish your assignments at least 12+ hrs in advance.
+Tags: Skip class? You won't pass., Lecture heavy
+
+---
+Date: 2018-12-08
+Course: DSC10
+Rating: 4.0
+Difficulty: 3.0
+Comment: Clickers for attendance, Lectures are him talking you through a jupyterhub notebook teaching you how to view the world, and form hypothesis.
+Tags: Respected, Clear grading criteria, GROUP PROJECTS

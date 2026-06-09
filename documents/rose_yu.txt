@@ -1,0 +1,63 @@
+Professor: Rose Yu
+School: University of California San Diego
+Department: Computer Science
+Overall Quality: 1.5 / 5.0
+Would Take Again: 14.3%
+Difficulty: 3.8 / 5.0
+Total Ratings: 6
+
+---
+Date: 2026-05-01
+Course: CSE151B
+Rating: 1.0
+Difficulty: 4.0
+Comment: I would probably give this professor a 0 if I could have. Her lectures are extremely confusing, and she explains concepts in the most complex way. She does NOT annotate on slides while lecturing, which makes everything even more confusing. And to top it all off, the project was very unorganized. DO NOT RECOMMEND TAKING HER CLASS.
+Tags: 
+
+---
+Date: 2025-12-19
+Course: CSE151B
+Rating: 1.0
+Difficulty: 5.0
+Comment: I went to her office hours one time to ask her a question and she said she couldn't answer my question because she was "busy". With no warning on Piazza that she'd be busy on her office hours. This happened multiple times too.
+Tags: Tough grader, Get ready to read, Participation matters
+
+---
+Date: 2025-06-06
+Course: CSE151B
+Rating: 1.0
+Difficulty: 5.0
+Comment: Her lectures move very quickly and often times you're trying to catch up. Her grading rubric is very confusing and you get points off on things you shouldn't. The exam itself has no study material prep. The TA's don't provide much help and often times tell you to just use chat GPT.
+Tags: Tough grader, Group projects
+
+---
+Date: 2023-07-02
+Course: CSE151B
+Rating: 4.0
+Difficulty: 1.0
+Comment: Pretty easy class, and she gives a lot of extra credit opportunities. I certainly felt like I learned a lot of deep learning in this class!
+Tags: EXTRA CREDIT
+
+---
+Date: 2023-06-29
+Course: CSE151B
+Rating: 1.0
+Difficulty: 4.0
+Comment: Yes she's an easy A as long as you do the busy work, but not like that matters given how rotten her personality is. Class was absolutely not set up in a way that promoted student success and you'll be mocked for asking an honest question. Not gonna lie that she's probably a brilliant researcher, but that's what she should focus on, not teaching!
+Tags: Group projects
+
+---
+Date: 2023-05-23
+Course: CSE151B
+Rating: 1.0
+Difficulty: 4.0
+Comment: She may be a good researcher, but she is definitely not a good professor. She is kind of arrogant and her lectures are not clear. She says strange remarks, such as: for multiple answer choices, if you don't know all, you don't know; instead of complaining, you should give constructive feedback on improvement.
+Tags: Group projects
+
+---
+Date: 2023-03-07
+Course: CSE151B
+Rating: 1.0
+Difficulty: 4.0
+Comment: The meanest professor I have ever had.
+Tags:

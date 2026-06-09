@@ -1,0 +1,47 @@
+Professor: Gal Mishne
+School: University of California San Diego
+Department: Computer Science
+Overall Quality: 1.6 / 5.0
+Would Take Again: 0.0%
+Difficulty: 4.0 / 5.0
+Total Ratings: 5
+
+---
+Date: 2026-03-16
+Course: dsc40a
+Rating: 1.0
+Difficulty: 5.0
+Comment: This is for DSC 120. Very boring and keeps the course material incredibly difficult. Not fun to study and give exam.
+Tags: 
+
+---
+Date: 2026-01-21
+Course: dsc40a
+Rating: 1.0
+Difficulty: 4.0
+Comment: She is monotone and manages to make interesting topics boring. She uses other professors' slides and materials, so it was better for me to watch old podcasts since it was clearer. Exams were difficult and doesn't represent course material well sometimes.
+Tags: Lots of homework
+
+---
+Date: 2026-01-09
+Course: dsc40a
+Rating: 2.0
+Difficulty: 3.0
+Comment: Lectures in flat monotone - explain things but super boring. I had to watch podcasts of previous quarters which talked about the same things but just more interesting. Exams were fair and I'd say it is comparatively easier than other professors.
+Tags: 
+
+---
+Date: 2026-01-06
+Course: dsc40a
+Rating: 2.0
+Difficulty: 4.0
+Comment: She is honestly a really boring teacher and the class itself has pretty hard content. Homework is honestly really hard and TAs grade it really hard, but the tests were not that bad, and she graded with grace.
+Tags: 
+
+---
+Date: 2025-12-14
+Course: dsc40a
+Rating: 2.0
+Difficulty: 4.0
+Comment: lectures are super boring. topics are difficult and she just uses other profs' slides and homework material. sometimes she doesn't even know the answer to problems. worst dsc prof imo, try to avoid.
+Tags: Lots of homework

@@ -1,0 +1,501 @@
+Professor: Julian  McAuley
+School: University of California San Diego
+Department: Computer Science
+Overall Quality: 3.3 / 5.0
+Would Take Again: 56.7%
+Difficulty: 2.6 / 5.0
+Total Ratings: 59
+
+---
+Date: 2026-05-07
+Course: CSE258
+Rating: 5.0
+Difficulty: 1.0
+Comment: I did my PhD with Julian. It's been a while since I graduated, but the demeaning comments he made to me still haven't left me. I had received several PhD offers at the time, and I still regret not choosing someone else. If you're an undergrad, you'll be fine. His classes are easy. If you received the PhD offer, think carefully before committing.
+Tags: 
+
+---
+Date: 2026-05-04
+Course: CSE258
+Rating: 1.0
+Difficulty: 1.0
+Comment: The workload for the course is light, and it is a pretty easy A. However, his character is not particularly admirable. I sympathize with all my friends who work with him.
+Tags: 
+
+---
+Date: 2026-02-12
+Course: CSE258
+Rating: 2.0
+Difficulty: 5.0
+Comment: Research advising was quite hands-off and mentorship felt limited, publication progress seemed largely student-driven. Prospective lab members should clarify mentorship cadence and authorship/credit expectations up front, and confirm whether the PI can provide a strong reference letter for PhD applications. Consider securing backup recommenders.
+Tags: 
+
+---
+Date: 2026-02-04
+Course: CSE258
+Rating: 5.0
+Difficulty: 1.0
+Comment: The professor streams the lectures on twitch.
+Tags: Clear grading criteria
+
+---
+Date: 2025-12-22
+Course: DSC256R
+Rating: 5.0
+Difficulty: 3.0
+Comment: Professor was very fair to students. Lectures were informative and he is so funny! Class was easy as long as you put in the work.
+Tags: Amazing lectures, Hilarious
+
+---
+Date: 2025-12-17
+Course: CSE158
+Rating: 5.0
+Difficulty: 2.0
+Comment: Good professor, lectures are very clear, easy to follow, and informative, just a bit monotone at times. Assignments were pretty relaxed and grading distribution was fair, with around a B+/A- average. Would recommend.
+Tags: 
+
+---
+Date: 2025-12-17
+Course: CSE258
+Rating: 2.0
+Difficulty: 2.0
+Comment: Prospective students, beware. HWs and assignments weren't too complex and lectures were decent, however, the grading on the assignments didn't sit right with me to say the least. I hope that in the future he considers refining his grading policy for the sake of both the students' and his own mental serenity.
+Tags: Tough grader
+
+---
+Date: 2025-12-17
+Course: DSC256R
+Rating: 1.0
+Difficulty: 5.0
+Comment: He is the worst professor I've ever had. He grades so harshly because he refuses to curve and is also a terrible lecturer. He never updates his slides and most of your grade is based on an extremely hard assignment.
+Tags: Tough grader, Lecture heavy, Graded by few things
+
+---
+Date: 2025-12-16
+Course: CSE258
+Rating: 1.0
+Difficulty: 4.0
+Comment: Just like working in his lab, he just doesn't care about students. He just want to finish this course as easy as possible which makes students' lives terrible. Image 60% of your grade is based on your classmates' feedback and performance. He just doesn't want to deal with all these grading stuffs since TAs in this class are from his lab.
+Tags: Tough grader
+
+---
+Date: 2025-12-16
+Course: CSE258
+Rating: 1.0
+Difficulty: 3.0
+Comment: A good course should have a least either of these two wonderful qualities, easy to get an A, or learn a lot of useful stuffs; or even better, both. However, the CSE258 for Fall 2025 has neither. The course is poorly structured, the instructional assistance team is not responsive, and the professor doesn't reply to emails.
+Tags: Tough grader, Graded by few things
+
+---
+Date: 2025-12-15
+Course: CSE258
+Rating: 4.0
+Difficulty: 1.0
+Comment: Comically low workload. No exams. He's pretty hands off, fairly good lecturer. Content covers fundamentals very thoroughly. Very few recent techniques are covered (ie two tower). Uses leaderboard grading which can be kind of a crapshoot.
+Tags: Group projects, Online Savvy
+
+---
+Date: 2025-12-15
+Course: CSE158
+Rating: 5.0
+Difficulty: 3.0
+Comment: Professor was fantastic, witty, and made class and learning very easy. Peer graders were exceptionally harsh&#8230;and their projects were not all that great. I mean we got a 2/5 from one because he said we did everything on the rubric but didn't do anything extra&#8230;a 40% since we didn't do anything &#8220;outside of the rubric&#8221;. That's what the rubric is for!!
+Tags: Tough grader
+
+---
+Date: 2025-12-15
+Course: CSE258
+Rating: 5.0
+Difficulty: 1.0
+Comment: Throughout the past 10 weeks, I was thoroughly entertained by all the drama and memes on Piazza.
+Tags: Amazing lectures, Hilarious
+
+---
+Date: 2025-12-12
+Course: CSE158
+Rating: 1.0
+Difficulty: 2.0
+Comment: A good amount of your grade is based upon a peer graded assignment rather than the TAs grading them based upon an actual rubric which makes your grade luck dependent which is extremely unfair. along with that, there are no real tests or truly graded projects which makes your knowledge of the content and the grade you get very disproportionate.
+Tags: Tough grader, Graded by few things, Accessible outside class
+
+---
+Date: 2025-12-12
+Course: CSE258
+Rating: 1.0
+Difficulty: 3.0
+Comment: The grading policy and peer review are so bad...
+Tags: 
+
+---
+Date: 2025-12-12
+Course: CSE158
+Rating: 3.0
+Difficulty: 4.0
+Comment: Fun professor with some interesting but unrelated lectures. The grading scheme and system are probably one of the worst ones I have seen, with ranked-based grading and peer grading.
+Tags: Amazing lectures, Lots of homework
+
+---
+Date: 2025-12-11
+Course: CSE158
+Rating: 3.0
+Difficulty: 3.0
+Comment: Did well in the class but still didn't love the grading scheme. As a teacher tho he was pretty decent.
+Tags: Graded by few things
+
+---
+Date: 2025-12-11
+Course: CSE258
+Rating: 1.0
+Difficulty: 2.0
+Comment: The assignment guidelines felt poorly executed and often didn't feel fair. I disliked peer grading as it determined our grade for our biggest assignment of the year. The peer grading was all over the place with some people not knowing about decimals being allowed, etc which could easily impact your grade.
+Tags: Graded by few things
+
+---
+Date: 2025-12-11
+Course: CSE158
+Rating: 3.0
+Difficulty: 2.0
+Comment: The homeworks were very informative and fair, but the project assignments not so much. 2 projects accounting for over half your grade, and the grading for the second one is entirely dependent on randomly assigned peer reviewers. It would be more fair if the TAs or profs would at least manually review them. Class was fun though.
+Tags: Group projects, Accessible outside class
+
+---
+Date: 2025-12-11
+Course: CSE158
+Rating: 4.0
+Difficulty: 1.0
+Comment: The class was very fair, and probably the easiest upper division class I've taken at UCSD. Despite people who say otherwise about grade deflation, the A/A+ grades still are easy to get if you put a modicum of effort. 
+
+Would recommend taking this class, and on top of being the easiest it was the most enjoyable. Thank you Professor McAuley.
+Tags: Graded by few things
+
+---
+Date: 2025-12-11
+Course: CSE258
+Rating: 1.0
+Difficulty: 4.0
+Comment: This semester the grading policy of CSE 258 is incomprehensible and terrible.  The professor tried too hard to avoid everyone getting a too high score like before. Please be careful when you want to choose this course next time.
+Tags: Tough grader
+
+---
+Date: 2025-12-11
+Course: CSE158
+Rating: 2.0
+Difficulty: 3.0
+Comment: Class grading didn't feel clear most of the time with one assignment having a leaderboard with position changing drastically for a few percentage points and peer grading for the only other assignment. Teaching was okay tho during lectures.
+Tags: Tough grader, Graded by few things
+
+---
+Date: 2025-12-10
+Course: CSE158
+Rating: 2.0
+Difficulty: 1.0
+Comment: He used to be an easy A-grader, and I understand that he's trying to tighten things up because the course average has been too high, causing grade inflation. But the way he's doing it now just feels off. I get many students were begging for higher grades, but his approach to deflation is simply abnormal. I don't really like the way he handles it.
+Tags: 
+
+---
+Date: 2025-12-10
+Course: CSE158
+Rating: 1.0
+Difficulty: 3.0
+Comment: There are 2 main assignments. For one he uses a leaderboard to partially assign points. Uses the same leaderboard across classes including graduate students. Good luck competing against them. For the second one he uses peer grading. Better pray you get decent peer graders since they can't be bothered to grade the work themselves ig.
+Tags: Tough grader
+
+---
+Date: 2025-12-10
+Course: CSE258
+Rating: 5.0
+Difficulty: 2.0
+Comment: McAuley is one of the best professors I have had while at UCSD. He is nice, his lectures are funny, and his assignments are more than fair. Homeworks are straightforward and you can resubmit as many times until you get 100%, the assignments are more intensive (I probably put a total of 20 hours for both), but grading is just and easy to pass.
+Tags: Group projects, Amazing lectures, Clear grading criteria
+
+---
+Date: 2025-12-05
+Course: CSE258
+Rating: 5.0
+Difficulty: 3.0
+Comment: Great professor with a good sense of humor.
+Tags: Amazing lectures, Accessible outside class
+
+---
+Date: 2025-11-24
+Course: CSE158
+Rating: 5.0
+Difficulty: 2.0
+Comment: funny guy, lectures on twitch, easy grading scheme
+dont pay too much heed to the tons of negative reviews - mainly people who overfit models and then wondered why it sucked on private leaderboards....litreally i just followed class ideas, got ranked in the 400s on public which became 300s in private. good enough for a 25/27. haters gonna hate.
+Tags: Group projects, Clear grading criteria, Hilarious
+
+---
+Date: 2025-11-21
+Course: CSE258
+Rating: 1.0
+Difficulty: 3.0
+Comment: The assignments are vague, with no clear rules, making the course disorganized. Some students fine-tune LLMs or pull the full original dataset instead of using the provided one, smart, but showing how unclear things are. A course shouldn't rely on leaderboard ranks so sensitive to small accuracy shifts.
+Tags: Tough grader
+
+---
+Date: 2025-11-21
+Course: CSE258
+Rating: 5.0
+Difficulty: 5.0
+Comment: The course covers fundamental machine learning concepts and provides a systematic understanding of recommendation systems. Clear grading criteria allow you to revise assignments for full marks. 
+
+Attendance isn't mandatory. If you have experience, you can focus mainly on the assignments.
+Tags: Group projects, Amazing lectures, Clear grading criteria
+
+---
+Date: 2025-11-21
+Course: CSE158
+Rating: 5.0
+Difficulty: 2.0
+Comment: really great lecturer and i feel like i'm learning a lot from this class. I would ignore the negative comments about assignment one because he basically told us in class how to get a good score and what approaches we should try
+Tags: Amazing lectures, Hilarious, Caring
+
+---
+Date: 2025-11-21
+Course: CSE258
+Rating: 5.0
+Difficulty: 2.0
+Comment: McAuley's classes are easy in the sense that they give you a lot of freedom. You don't have to come to class, there's no final, etc. That doesn't mean you can get by with no effort. It just means your success is entirely in your hands. Put effort into the assignments, and you'll be fine.
+Tags: Amazing lectures, Respected, Graded by few things
+
+---
+Date: 2025-11-21
+Course: CSE158
+Rating: 5.0
+Difficulty: 2.0
+Comment: Great lectures, easy to follow. If you don't understand something you can read the textbook written by him which is just a more detailed version of the course.
+The assignment (kind of like a kaggle challenge) was pretty fun - many people  are complaining because they did not read the grading criteria properly and left things too late.
+Tags: Amazing lectures, Clear grading criteria, Hilarious
+
+---
+Date: 2025-11-20
+Course: CSE158
+Rating: 4.0
+Difficulty: 2.0
+Comment: Many people are complaining because 1 assignment partially depends how our models performed compared to other students. However, the professor gave us a month on the assignment, the lectures were incredibly helpful on what code to implement/use, and he also offered a great makeup assignment for people who scored low. Good class overall, 0 issues.
+Tags: Amazing lectures, Clear grading criteria, Caring
+
+---
+Date: 2025-11-20
+Course: CSE158
+Rating: 5.0
+Difficulty: 3.0
+Comment: Julian is a great professor, but lectures can be dense material-wise. The class is doable if your ML fundamentals are solid. Even if you don't, its fairly easy to pick up the material as you go. His HW deadlines are flexible and lenient depending on how much material he covers in lecture. Anyone whose interested in ML applications should take 158.
+Tags: Group projects, Amazing lectures, Clear grading criteria
+
+---
+Date: 2025-11-19
+Course: DSC256R
+Rating: 1.0
+Difficulty: 5.0
+Comment: He is not a great professor. He lectures through Twitch TV, which often gets disrupted due to ads. Also, his instructions for homework are super vague and never updates the slides. Not only that, but he made an extremely hard assignment on a ranked grading system, where most students did not do well. I highly recommend not taking this professor.
+Tags: Tough grader, Lots of homework, Graded by few things
+
+---
+Date: 2025-11-18
+Course: CSE158
+Rating: 1.0
+Difficulty: 5.0
+Comment: This is supposed to be one of the easiest CS courses, but instead he made an extremely hard assignment, competing against grad students on a ranked grading system, where 70% of the class failed and proceeded to be unmoving on any additional credit
+Tags: Tough grader, Graded by few things
+
+---
+Date: 2025-10-30
+Course: DSC256R
+Rating: 1.0
+Difficulty: 4.0
+Comment: He is a terrible lecturer since the material is unorganized and the assignments have extremely vague instructions.
+Tags: Lots of homework, Graded by few things
+
+---
+Date: 2025-02-18
+Course: CSE258
+Rating: 4.0
+Difficulty: 1.0
+Comment: Man likes beer.
+Tags: 
+
+---
+Date: 2023-12-21
+Course: CSE158
+Rating: 5.0
+Difficulty: 1.0
+Comment: Easy class, but I learned a lot as this was my first ML course.
+
+Lectures are detailed, and supplemental materials give great examples of class concepts. With these resources, it's easy to do well in the competition.
+
+Rather than taking a final, we have a project (you can choose teammates) that applies ML to the real world.
+
+He's a piano virtuoso!
+Tags: Amazing lectures, Caring, Online Savvy
+
+---
+Date: 2023-12-16
+Course: CSE258
+Rating: 5.0
+Difficulty: 3.0
+Comment: Very good professor. The course content covers a lot of material. If you're willing, there's incredible potential for improvement. The professor's grading is also very fair and never overly strict.
+Tags: Group projects, Amazing lectures, Caring
+
+---
+Date: 2023-12-14
+Course: CSE158
+Rating: 5.0
+Difficulty: 1.0
+Comment: Easy!
+Tags: Group projects
+
+---
+Date: 2023-06-17
+Course: CSE258
+Rating: 3.0
+Difficulty: 1.0
+Comment: Cool prof. Decent lectures. Homeworks are so easy that you would get bored. The homeworks could be better designed to cover all the finer details of the topics.
+Tags: Clear grading criteria, Online Savvy
+
+---
+Date: 2023-05-19
+Course: CSE258
+Rating: 4.0
+Difficulty: 1.0
+Comment: CSE 158 and 258 is combined into 1 huge class with most people watching on Twitch. The professor has his own textbook and uses that as his base material. The class is good and provides a good foundation for people who are not familiar with Machine Learning, but is too simple for those who are familiar. The prof is super active on Piazza
+Tags: Clear grading criteria, Respected, Online Savvy
+
+---
+Date: 2023-01-02
+Course: CSE258
+Rating: 5.0
+Difficulty: 3.0
+Comment: The course is easygoing. Professor is cool. This was my first ML class, and I enjoyed it as most of it was practical. He is the only professor I have seen who writes code in a live class. I got to learn a lot.
+Tags: Amazing lectures, Clear grading criteria, Online Savvy
+
+---
+Date: 2022-12-22
+Course: CSE258
+Rating: 5.0
+Difficulty: 3.0
+Comment: Great professor and person! I enjoyed the course and got to learn a lot of new concepts regarding recommendation systems.
+
+Easy to score an A
+Tags: Group projects, Caring, Respected
+
+---
+Date: 2022-12-08
+Course: CSE158
+Rating: 5.0
+Difficulty: 3.0
+Comment: Easy to get A
+Tags: Group projects, Clear grading criteria, Caring
+
+---
+Date: 2022-04-03
+Course: CSE158
+Rating: 5.0
+Difficulty: 3.0
+Comment: Chose this AI class because, I wasn't too caring for AI, and I hated theory and heard this was the most hands on. It did not disappoint, and honestly was a lot more fun and rewarding than I expected. Tons of work, and time spent, but super rewarding to get my code working. Midterm was rough, I heard a lot of people cheated, but totally doable.
+Tags: Group projects, Clear grading criteria, Lots of homework
+
+---
+Date: 2021-07-03
+Course: CSE158
+Rating: 5.0
+Difficulty: 4.0
+Comment: He has more of an industry/functional focus than academic. A portion of our grades were based on our relative performance in a Kaggle competition. I think he takes some heat for this because the type of students that typically excel in academic environments (tests) don't fare so well here, but it's much more like the real world after university.
+Tags: Clear grading criteria, Lecture heavy, Caring
+
+---
+Date: 2020-12-06
+Course: CSE158
+Rating: 3.0
+Difficulty: 3.0
+Comment: Kaggle competition makes no sense. Expect a 4% grade drop because you didn't waste as much as as some of your other classmates .
+Tags: 
+
+---
+Date: 2019-01-06
+Course: CSE258
+Rating: 1.0
+Difficulty: 5.0
+Comment: Get ready for almost your entire grade to depend on how you perform in a Kaggle competition. Even if you work really hard on it and understand the lectures perfectly, it's still possible not to do well, and it'll be your fault.
+Tags: 
+
+---
+Date: 2018-12-18
+Course: CSE258
+Rating: 1.0
+Difficulty: 3.0
+Comment: Terrible lecturer, materials are unorganized. The grading criterion is often ambiguous. Recommend to take 250A instead.
+Tags: 
+
+---
+Date: 2018-12-02
+Course: CSE158
+Rating: 2.0
+Difficulty: 4.0
+Comment: Homework and assignments are like time-draining blackholes. There is one big assignment worth one-fourth of your overall grade but you will get points deducted even though you have worked your ass off because it is graded based on class ranking. You will get a poor grade if there are people spending more time than you on it.
+Tags: LOTS OF HOMEWORK, GRADED BY FEW THINGS
+
+---
+Date: 2018-11-11
+Course: CSE158
+Rating: 1.0
+Difficulty: 2.0
+Comment: Regardless of the difficulty, his midterm makes no sense and has nothing to do with the course material.
+Tags: 
+
+---
+Date: 2018-10-22
+Course: CSE158
+Rating: 1.0
+Difficulty: 1.0
+Comment: Even though no final, exam is easy. but this guy doesn't know how to teach. Expect to learn everything yourself. super unorganized teaching. The same slides is used forever.
+Tags: GROUP PROJECTS
+
+---
+Date: 2018-10-13
+Course: CSE158
+Rating: 4.0
+Difficulty: 1.0
+Comment: Lenient exam, diaster lecturer. he is not good at teaching.
+Tags: Respected, Hilarious
+
+---
+Date: 2018-10-01
+Course: CSE255
+Rating: 5.0
+Difficulty: 2.0
+Comment: So much to learn from Prof. Mcaulley! Wished all profs at UCSD were as good!
+Tags: Hilarious, Amazing lectures, GROUP PROJECTS
+
+---
+Date: 2018-03-16
+Course: CSE258
+Rating: 5.0
+Difficulty: 3.0
+Comment: Great lectures, amazing course.
+Tags: Gives good feedback, Clear grading criteria, Amazing lectures
+
+---
+Date: 2018-03-11
+Course: CSE158
+Rating: 5.0
+Difficulty: 3.0
+Comment: He showed professional command of all materials mentioned in the course which really helped us understand his ideas. The assignments are hands on so that learning is reinforced.
+Tags: Inspirational
+
+---
+Date: 2017-03-26
+Course: CSE158
+Rating: 5.0
+Difficulty: 3.0
+Comment: Prof McAuley is great.  The lectures are all podcasted so which is always nice.  The assignments are somewhat tough at times because some of the concepts are hard to grasp.  The midterm is graded quite leniently I'd say and theres no final, hooray.  This is a very interesting class, would recommend taking it.
+Tags: Gives good feedback, Respected, Hilarious
+
+---
+Date: 2016-10-26
+Course: CSE197
+Rating: 5.0
+Difficulty: 2.0
+Comment: Julian is the bomb. Great instructor and world class professor. Hats off the the McAuley
+Tags: Gives good feedback, Respected

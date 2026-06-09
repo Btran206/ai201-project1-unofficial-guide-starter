@@ -1,0 +1,55 @@
+Professor: Vineet Bafna
+School: University of California San Diego
+Department: Computer Science
+Overall Quality: 2.4 / 5.0
+Would Take Again: 60.0%
+Difficulty: 3.5 / 5.0
+Total Ratings: 6
+
+---
+Date: 2025-08-01
+Course: BIMM182
+Rating: 3.0
+Difficulty: 3.0
+Comment: Bafna isn't the best lecturer like i feel like lecture does drag on, however he makes this class not too difficult. I'd say he is quite lenient when it comes to homework and exams, and he is super sweet just a bit disorganised.
+Tags: Group projects, Lecture heavy
+
+---
+Date: 2025-06-09
+Course: CSE182
+Rating: 1.0
+Difficulty: 4.0
+Comment: Slides oftentimes make no sense, and explanations are worse. TAs aren't useful - grading criteria is extremely harsh, and don't bother asking questions on Piazza if you want answers. Disorganized HW assignments where questions are changed or removed entirely several days after being assigned. Avoid at all costs.
+Tags: Tough grader, Participation matters, Group projects
+
+---
+Date: 2022-06-22
+Course: CSE182
+Rating: 4.0
+Difficulty: 3.0
+Comment: Prof Bafna isn't the best lecturer (class feels like it drags on); however, the podcasts makes the course material much easier to follow. The exams are graded very leniently, so don't worry if you feel unconfident walking out of them. The class might be more difficult if you haven't taken CSE 181 but is still doable.
+Tags: Group projects, Lecture heavy
+
+---
+Date: 2020-02-12
+Course: CSE280
+Rating: 1.0
+Difficulty: 4.0
+Comment: Well. I think Professor Bafna can explain concept better. It is important to give student outline of different concept and explain the logic. However, all he did during class was reading the slides. The assignments were not well prepared. The questions were not clear at all. Especially the TA graded hard on the questions.
+Tags: 
+
+---
+Date: 2019-06-18
+Course: BIMM182
+Rating: 4.0
+Difficulty: 4.0
+Comment: While I didn't love this class, I thought the professor was great. The lectures were pretty slow and because of this many people do not go to lecture, however if you podcast the class and can speed it up and down, Bafna teaches the material very well. He also gives a very generous curve, he does want to see his students succeed.
+Tags: Accessible outside class, Group projects, Caring
+
+---
+Date: 2011-11-15
+Course: CSE182
+Rating: 1.5
+Difficulty: 3.0
+Comment: He does not explain anything well at all. Graded exams and homeworks are returned extremely late. He appears to put little effort into teaching. He is a nice person, but his class is like a casual lunch seminar instead of something undergrads are actually being graded on. This is the class I have learned the least from in the bioinformatics series.
+Tags:

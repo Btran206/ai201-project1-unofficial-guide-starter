@@ -1,0 +1,39 @@
+Professor: Arun Kumar
+School: University of California San Diego
+Department: Computer Science
+Overall Quality: 5.0 / 5.0
+Would Take Again: 100.0%
+Difficulty: 3.0 / 5.0
+Total Ratings: 4
+
+---
+Date: 2023-05-02
+Course: DSC102
+Rating: 5.0
+Difficulty: 2.0
+Comment: Best prof in UCSD CSE. Super nice! Will take a personal interest in helping you.
+Tags: 
+
+---
+Date: 2023-01-11
+Course: DSC102
+Rating: 5.0
+Difficulty: 3.0
+Comment: The most interesting, enjoyable course I've taken throughout my four years college life, his teaching is very clear and interesting, the interaction with students is also amazing. A meme contest was held, in class and after class he would also share the industry's latest news and his own views.
+Tags: Amazing lectures, Gives good feedback, Respected
+
+---
+Date: 2021-02-18
+Course: CSE291D
+Rating: 5.0
+Difficulty: 3.0
+Comment: Professor Kumar is wonderful. He cares a ton, is super knowledgeable, and you will learn a ton from him. Great guy
+Tags: Get ready to read, Amazing lectures, Caring
+
+---
+Date: 2020-04-04
+Course: DSC102
+Rating: 5.0
+Difficulty: 4.0
+Comment: One of the best professors I've ever had!
+Tags: Respected, Accessible outside class, Inspirational

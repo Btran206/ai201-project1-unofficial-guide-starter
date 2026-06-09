@@ -1,0 +1,447 @@
+Professor: Soohyun Liao
+School: University of California San Diego
+Department: Data Science
+Overall Quality: 2.2 / 5.0
+Would Take Again: 36.4%
+Difficulty: 3.6 / 5.0
+Total Ratings: 54
+
+---
+Date: 2026-06-09
+Course: DSC30
+Rating: 3.0
+Difficulty: 4.0
+Comment: The study guides and lesson plans are on point for what will be covered on the tests. Tests are moderately difficult. My dislikes are the grading scheme and format of the class. I don't see the point of having a biweekly checkup to talk to a TA for 5 minutes. It took forever to setup for the midterms, and there were so many errors...
+Tags: Clear grading criteria, Online Savvy
+
+---
+Date: 2026-03-16
+Course: DSC30
+Rating: 1.0
+Difficulty: 3.0
+Comment: Pure definition of I like what I am studying, I don't like who's teaching it.
+Tags: Tough grader, EXTRA CREDIT
+
+---
+Date: 2025-11-21
+Course: DSC30
+Rating: 1.0
+Difficulty: 3.0
+Comment: Avoid if you can
+Tags: Tough grader
+
+---
+Date: 2025-11-11
+Course: DSC30
+Rating: 5.0
+Difficulty: 2.0
+Comment: Generally a caring professor, I'm not really sure what's up with the reviews here but the tests most definitely reflect the material taught in class. Homework can absolutely be done without going to office hours.
+Tags: Caring, Respected, Test heavy
+
+---
+Date: 2025-10-09
+Course: DSC30
+Rating: 1.0
+Difficulty: 4.0
+Comment: Lectures do not make sense and are not from the perspective of a student with no knowledge of the material. Impossible to do homework without going to OH, but there are only two hours of OH per week. Exams are difficult. I hope she revises the whole structure of this course.
+Tags: 
+
+---
+Date: 2025-09-06
+Course: DSC30
+Rating: 5.0
+Difficulty: 3.0
+Comment: Another student gave a scathing review for the same class I took which was not the experience I had with the class which prompted me to write this. It was completely manageable, Soohyun offers focused, clear, and slow paced lectures. Tests had study guides with no surprises on the tests and a reasonable grading system.
+Tags: Amazing lectures, Clear grading criteria, Caring
+
+---
+Date: 2025-08-22
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: One of the worst professors in UCSD. Unfair grading, test material not reflective of class material, and super hard to reach outside of class.
+Tags: Tough grader
+
+---
+Date: 2025-07-09
+Course: DSC30
+Rating: 4.0
+Difficulty: 3.0
+Comment: Java is not an easy language. If you have 0 experience with it, this class will be pretty hard so expect to put in work. Prof curves and clearly cares about your learning. Go to OH, start PA's early, ask questions and put in the work and you'll succeed in this class. Again DSA is a class of its own, so learn java b4 hand!
+Tags: Participation matters, Lecture heavy
+
+---
+Date: 2025-06-25
+Course: DSC30
+Rating: 2.0
+Difficulty: 2.0
+Comment: Professor deserves a bit of credit, given that she taught okay, curved a lot, and could have made the class harder. However, the class was unsupportive of her students. The study guide and practice test for midterm 1 were horrible preparation, and because of her grading scheme, if you bombed it, there was no redemption. Also the whole exam 2 issue.
+Tags: Test heavy, Graded by few things
+
+---
+Date: 2025-06-21
+Course: DSC30
+Rating: 1.0
+Difficulty: 2.0
+Comment: Grading was really unfair this is just a salty review so I can crashout
+Tags: 
+
+---
+Date: 2025-06-20
+Course: DSC30
+Rating: 3.0
+Difficulty: 3.0
+Comment: She explains things very well. She makes class interactive by making us think through the problems first it helps to better make sense of the material. I mostly watched the recordings though. First midterm was too hard. Second midterm was reasonable.  I haven't received my final grade yet, two days after the deadline, which doesn't seem right.
+Tags: Participation matters, EXTRA CREDIT, Gives good feedback
+
+---
+Date: 2025-06-16
+Course: DSC30
+Rating: 1.0
+Difficulty: 3.0
+Comment: DO get intimidated by the other reviews. It is unfair for students of a section who cheated to receive free points for more than half of the midterm. There are better alternatives for dealing with this like simply removing the scores of those cheaters from the class grades. CompassX is also not reliable for submitting PAs bc of how much it crashes.
+Tags: Get ready to read, Lecture heavy
+
+---
+Date: 2025-06-16
+Course: DSC30
+Rating: 1.0
+Difficulty: 4.0
+Comment: Lectures do not help that much and relies a lot on self-learning. Some people cheated on the second midterm but instead of rewarding the lecture that didn't have any cheaters they decided to give credit to the lecture that did. Horrible way to turn in programming assignments because compassx crashed for a lot of people.
+Tags: Test heavy, Graded by few things
+
+---
+Date: 2025-06-16
+Course: DSC30
+Rating: 1.0
+Difficulty: 3.0
+Comment: The professor is extremely disorganized; she often deviates from the syllabus, and the grading is consistently late. PAs are hard to understand, so is the test, even though the grading was adjusted to become easier; as many student were at risk of failing due to her horrible grading scale, which takes the minimum of all your grades
+Tags: Tough grader
+
+---
+Date: 2025-06-15
+Course: DSC30
+Rating: 4.0
+Difficulty: 3.0
+Comment: Don't get scared by the reviews, this prof is extremely overhated. She is quite nice and easy to understand. Incredible amounts of extra credit. Made a pretty weird decision to greatly reward half the class (who had cheaters among them) but not extend that reward to the other half though. Class was definitely easier than DSC 10 and 20.
+Tags: Participation matters, EXTRA CREDIT, Test heavy
+
+---
+Date: 2025-06-14
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: unfair professor who makes no logical sense. Gave the section who cheated free A's meanwhile left the other section with nothing. Curves r pretty good/easy to pass class but u will learn nothing.
+Tags: Tough grader, Lots of homework, Test heavy
+
+---
+Date: 2025-06-14
+Course: DSC30
+Rating: 5.0
+Difficulty: 1.0
+Comment: Awesome prof gave us extra credit for cheating.
+Tags: Amazing lectures, Respected
+
+---
+Date: 2025-06-13
+Course: DSC30
+Rating: 1.0
+Difficulty: 4.0
+Comment: Gave unfair extra credit to the one section that cheated.
+Tags: 
+
+---
+Date: 2025-06-13
+Course: DSC30
+Rating: 1.0
+Difficulty: 4.0
+Comment: The grading system was awful. The group that cheated got bonus points and easy A+ on exam. This is unfair to those who did not cheat
+Tags: 
+
+---
+Date: 2025-06-13
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: Worst professor I have had ever, does not care about students at all, does not reply to single email, there is no way to contact her / receive support outside of Office Hours, does not post the graded midterms on gradescope, students literally had to ask her to do that. Grades weird and unfair, explains terrible, is really messy with her syllabus
+Tags: 
+
+---
+Date: 2025-06-13
+Course: DSC30
+Rating: 1.0
+Difficulty: 3.0
+Comment: Those who rated a 5/5 probably took their final at 3pm lol
+Tags: 
+
+---
+Date: 2025-06-12
+Course: DSC30
+Rating: 5.0
+Difficulty: 3.0
+Comment: Not sure why the other ratings about her are so harsh. This quarter the grades were very generous, both of our midterms were curved, the grading distribution was changed, and if you did the bare minimum for participation you get extra points added to your grade. In general the lectures had good examples and also opportunities for remote attendance.
+Tags: Get ready to read, Participation matters, Caring
+
+---
+Date: 2025-06-12
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: Terrible. Do not take.
+Tags: Tough grader, Get ready to read
+
+---
+Date: 2025-06-12
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: She is a terrible professor who does not really care about students. She marked midterms as if students do not care about their grades and does not provide helpful feedback for their work. PA write ups are terrible and content, while relevant, is not explained well. This causes major questions to whether students actually learn.
+Tags: Tough grader, Graded by few things
+
+---
+Date: 2025-06-12
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: Worst professor you can take at UCSD. She can not lecture and gets confused herself when teaching. PAs and zybook readings were alright, however, the midterms are not graded fairly, almost as if she randomly generates a grade for every student. I do not think that the grade anyone receives is a fair representation of their skill level.
+Tags: Tough grader, Get ready to read, Participation matters
+
+---
+Date: 2025-06-12
+Course: DSC30
+Rating: 5.0
+Difficulty: 2.0
+Comment: Excellent professor. Clear at explaining concepts and is very caring for students. She also curves a lot for midterms. Recommend 10/10 for DSC 30 prof.
+Tags: Caring
+
+---
+Date: 2025-06-09
+Course: DSC30
+Rating: 5.0
+Difficulty: 1.0
+Comment: Outstanding. Telling us to search our own examples through AI. Very good
+Tags: Amazing lectures, Inspirational, Respected
+
+---
+Date: 2025-06-09
+Course: DSC30
+Rating: 5.0
+Difficulty: 1.0
+Comment: This professor is outstanding, and the midterms were very straightforward.
+Tags: EXTRA CREDIT, Inspirational
+
+---
+Date: 2025-06-09
+Course: DSC30
+Rating: 5.0
+Difficulty: 1.0
+Comment: Curved a lot, extra points for doing SETs, extended deadlines, can fill out remote participation for lecture attendance, midterms barely test your ability to actually code but rather test if you can understand the data structure or algorithm and a minimal level.
+Tags: EXTRA CREDIT, Caring, Online Savvy
+
+---
+Date: 2025-06-09
+Course: DSC30
+Rating: 4.0
+Difficulty: 4.0
+Comment: Super nice professor, definitely not deserving of such a low rating. The minimum grading scheme is annoying but midterms are curved very heavily and are just like the practice ones. PAs are basically always a 100, though they can be time consuming and confusing. Lecture is mandatory but there is a remote option and the final is a take-home pa.
+Tags: 
+
+---
+Date: 2025-06-08
+Course: DSC30
+Rating: 5.0
+Difficulty: 3.0
+Comment: No idea as to why her rating is this low. She is a really nice professor and is pretty good at explaining the concepts. Yes, the grading scheme kinda sucks, but she curves the hell out of the exams anyway (and grades them pretty leniently) to make up for low class performance.
+Tags: Caring
+
+---
+Date: 2025-06-07
+Course: DSC30
+Rating: 3.0
+Difficulty: 4.0
+Comment: I don't really get why the rating is so low. The minimum grading scheme IS really annoying, but to be honest, the harder grading scheme(test heavy) looks really similar to many classes that only have 1. She does teach pretty well, and going to lecture helped, but the content is naturally difficult so you'll need to put in the work.
+Tags: 
+
+---
+Date: 2025-06-05
+Course: DSC30
+Rating: 1.0
+Difficulty: 4.0
+Comment: One of the worst experiences I have had with a professor. Programming assignments does not help and the write ups for it would leave you confused. Not helpful in providing us learning resources. Her grading scheme did not make any sense. I learnt more from zybooks than her honestly. Definitely would not recommend her.
+Tags: 
+
+---
+Date: 2025-06-05
+Course: DSC30
+Rating: 4.0
+Difficulty: 5.0
+Comment: Tough class, good professor though.
+Tags: Lots of homework, Caring
+
+---
+Date: 2025-06-05
+Course: DSC30
+Rating: 4.0
+Difficulty: 3.0
+Comment: I don't understand the extremely low rating. She was very accommodating and learned from past quarter student's habits and adjusted. She and the other TAs were there for help online and provided many opportunities for office hours. Lectures could be boring but that very well could just be the subject.
+Tags: Participation matters, Lots of homework
+
+---
+Date: 2025-05-26
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: The grading scheme is horrible, she takes the minimum of the two scales provided. She doesn't teach well and offers little to no resources.
+Tags: Lecture heavy, Test heavy
+
+---
+Date: 2025-04-29
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: This professor takes the minimum out of the grading scales and tries to lower grades as much as possible.
+Tags: Tough grader, So many papers, Test heavy
+
+---
+Date: 2025-04-01
+Course: DSC30
+Rating: 5.0
+Difficulty: 1.0
+Comment: Extra credits, lectures are mandatory but have online attendance option which basically means you have to submit a google form after watching podcast.
+Tags: EXTRA CREDIT, Amazing lectures, Clear grading criteria
+
+---
+Date: 2024-12-03
+Course: DSC30
+Rating: 1.0
+Difficulty: 4.0
+Comment: slow in releasing participation and PA grades. Not helpful in providing learning resources when podcasts were either missing screencast or audio: the technical issue was brought to attention weeks ago and she said she would record locally as a backup, though we never got any backup video or audio so it was hard to refer back to lecture for review.
+Tags: Participation matters
+
+---
+Date: 2024-11-29
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: she makes errors in the midterms too and then starts talking about it during the exam like how are we supposed to focus properly during the exam? i also don't get why she updates everything so late. her study guides are literally updated 3-4 days before the exam which isn't sufficient for people who want to start studying ahead. RUNNNN
+Tags: Participation matters, Lecture heavy
+
+---
+Date: 2024-11-29
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: she's literally the definition of messy and unorganized. her lectures make no sense and always either have errors or she herself is lost. im still confused how she taught at princeton. every pa is the same thing building off of the other PAs which doesn't help you learn any of the concepts at all. midterms are deadly btw.
+Tags: Participation matters, Lecture heavy, Test heavy
+
+---
+Date: 2023-04-04
+Course: DSC106
+Rating: 1.0
+Difficulty: 2.0
+Comment: She's an awful lecturer - cannot communicate ideas at all. Her slides are often devoid of any meaningful content and cover content that's 2 weeks behind. Her assignments sometimes contradict the textbook and basic data visualization principles. The class was not hard, it was just honestly a waste of my time.
+Tags: 
+
+---
+Date: 2023-03-23
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: Her PA write-ups are so unclear and don't make any sense. Especially for the final project, it is the worst PA write-up I have ever seen. Extremely unclear, don't no what to do. Also, the autograder did not help with debugging at all. If you have other choices, don't choose her!
+Tags: Participation matters, EXTRA CREDIT, Lots of homework
+
+---
+Date: 2023-03-23
+Course: DSC30
+Rating: 5.0
+Difficulty: 4.0
+Comment: DSC30 is difficult due to heavy java content, regardless of the teacher. Lectures give best effort to explain concepts with examples. PAs and Project are difficult especially to the end of quarter. But she always take feedbacks, reducing the numbers of PAs, giving extra credits, and extending deadlines when necessary. A very caring prof overall.
+Tags: Get ready to read, Participation matters, Amazing lectures
+
+---
+Date: 2023-03-21
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: Very disorganized & gave us the wrong answers to her own practice questions during every lecture. Doesn't even seem to understand the material that SHE is teaching. Didn't have her own OH and TAs barely had OH, didn't respond to emails, rude when you talked to her in person. Procrastinated writing final proj which we only got a week to do.
+Tags: Tough grader, Lots of homework
+
+---
+Date: 2023-02-23
+Course: DSC106
+Rating: 1.0
+Difficulty: 5.0
+Comment: Teach you absolutely nothing, while the homework are very hard
+Tags: 
+
+---
+Date: 2023-02-15
+Course: DSC30
+Rating: 1.0
+Difficulty: 3.0
+Comment: confusing homework, projects and exams, poor explanation of concepts, unnecessary group activities and attendance, worst experience ever.
+Tags: 
+
+---
+Date: 2022-05-11
+Course: DSC106
+Rating: 2.0
+Difficulty: 4.0
+Comment: You are expected to learn javascript in this class, but it is merely brushed over in class with very poor explanations. The readings are long but useful. Most of what I learned was on the internet. Participation is mandatory and all of the work is done in groups. I feel like the professor's English hinders her ability to explain concepts.
+Tags: Get ready to read, Participation matters, Lots of homework
+
+---
+Date: 2022-04-06
+Course: DSC106
+Rating: 1.0
+Difficulty: 3.0
+Comment: Oh my poor underclassmen brethren. I can only imagine what you must have suffered with Sooh as your introduction to ADS/OOP Java. This professor is terrible. I had her for 106, a class that is supposed to use Javascript/D3 + some Tableau to teach data viz. Lectures were useless, and labs were marginally helpful. I had to self-teach everything.
+Tags: 
+
+---
+Date: 2022-03-19
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: This professor is the worst professor that I met at UCSD so far. The class content is difficult.  But the professor teaches in a mess, and the policy change again and again. She canceled the final exam and created a Huge Hard final Project. She teaches level 1 in class, but the hw is in level10.
+Tags: Tough grader, Participation matters, Lots of homework
+
+---
+Date: 2022-03-13
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: just learn by yourself
+Tags: Tough grader, Participation matters, Lots of homework
+
+---
+Date: 2022-03-12
+Course: DSC30
+Rating: 2.0
+Difficulty: 5.0
+Comment: She is extremely passionate about discussions and group activities, but I don&#39;t think these things work well in a java class. She is a caring and respects all the questions, but you may not learn as much as expected in her lectures. Final exam is replaced by an extremely extremely extremly roughly constructed and consufing project.
+Tags: Participation matters, EXTRA CREDIT, Respected
+
+---
+Date: 2022-03-10
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: For Course DSC106, the homework is not related with anything she taught in class. This professor just decided that it&#39;s a good idea to let every student learn javascript by themselves. Feel free to take her course if you want to get rid of some extra hair.
+Tags: 
+
+---
+Date: 2022-03-01
+Course: DSC30
+Rating: 1.0
+Difficulty: 5.0
+Comment: The grading on homework has no consistent standard.  We went from some weeks having the style graded to not required for style then went back to have style graded and then the style requirement is canceled again. and her reason was to save TA time for more tutor hours. 4 days later, we still get no hour updated.
+Tags: 
+
+---
+Date: 2022-02-24
+Course: DSC30
+Rating: 2.0
+Difficulty: 4.0
+Comment: It's notable that she is doing her best to accommodate her students, however her lecture does not accommodate the fact that java is still a new language for most students. The PA writeups sometimes are vague and feels like 80% of the time just trying to understand what they are asking for. Unless you have java exp, you will struggle in this class.
+Tags: Participation matters, Skip class? You won't pass., Tough grader

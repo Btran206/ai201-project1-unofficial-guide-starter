@@ -1,0 +1,79 @@
+Professor: Rajesh Gupta
+School: University of California San Diego
+Department: Computer Science
+Overall Quality: 1.9 / 5.0
+Would Take Again: 0.0%
+Difficulty: 4.4 / 5.0
+Total Ratings: 9
+
+---
+Date: 2023-12-01
+Course: DSC202
+Rating: 1.0
+Difficulty: 5.0
+Comment: Not ralated to slides. Instruction was unclear. Seldom explain some strange abbreviation. Difficult on Homework.
+Tags: 
+
+---
+Date: 2023-11-20
+Course: DSC202
+Rating: 2.0
+Difficulty: 5.0
+Comment: COMPLETE CHAOS
+Tags: 
+
+---
+Date: 2023-11-20
+Course: CSE30
+Rating: 2.0
+Difficulty: 5.0
+Comment: The whole course is poorly organized. He's trying to cover too many things within two months and end up losing his focus on what are the useful parts. The first half is okay, except for his nothing-got-explained and no-sample-data assignments and exam. But the second half is horrendous, he's assuming students to have experiences for those topics.
+Tags: Tough grader, Get ready to read
+
+---
+Date: 2023-11-19
+Course: CSE30
+Rating: 1.0
+Difficulty: 5.0
+Comment: he made the midterm and homework very hard and not even give a curve
+Tags: 
+
+---
+Date: 2010-03-19
+Course: CSE30
+Rating: 4.0
+Difficulty: 4.0
+Comment: Professor Gupta is a very good person.He always answer questions: he always takes times after the class for answering question to the student. His grading is really open minded : he is ok to adapt the grade if they were a mistake or a misunderstood. I recommended this teacher.
+Tags: 
+
+---
+Date: 2010-03-18
+Course: CSE30
+Rating: 2.0
+Difficulty: 4.0
+Comment: Professor Gupta is a great man, he's definitely one of the most accomplished and smart professor I've had so far. The problem with the class is it's REALLY disorganized. Solutions for homework have errors, grades are out really late  and the TAs seem to not communicate with the professor at all. Overall, I recommend the professor but not this class
+Tags: 
+
+---
+Date: 2010-03-18
+Course: CSE30
+Rating: 2.0
+Difficulty: 3.0
+Comment: The lectures are slightly disorganized, so it is quite difficult to follow during class.  Professor Gupta does post his power points online, so it helps to review them on your own after.  He knows the material well, and explains it well when you ask questions.  Its just hard to follow and comprehend during class.
+Tags: 
+
+---
+Date: 2010-03-18
+Course: CSE30
+Rating: 2.5
+Difficulty: 5.0
+Comment: The course material is tough. However, Professor Gupta is reasonable and is considerate of his students (extended due dates when workload got to be too much).  There was some issues with inconsistencies with answer keys or homework assignments not being correct (which got very frustrating). The tutors themselves contradicted themselves many times.
+Tags: 
+
+---
+Date: 2010-02-24
+Course: CSE30
+Rating: 1.0
+Difficulty: 4.0
+Comment: Going to lecture doesn't really help since the professor speaks incomprehensibly and is unorganized. TA in Discussion section will repeat everything in the lecture in brief. The good thing is that the prof is friendly and he will try his best to explain
+Tags:

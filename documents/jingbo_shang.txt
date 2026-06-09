@@ -1,0 +1,135 @@
+Professor: Jingbo Shang
+School: University of California San Diego
+Department: Data Science
+Overall Quality: 3.6 / 5.0
+Would Take Again: 81.2%
+Difficulty: 2.1 / 5.0
+Total Ratings: 16
+
+---
+Date: 2025-05-08
+Course: CSE151A
+Rating: 2.0
+Difficulty: 1.0
+Comment: Easiest A ever (look at the other comments). He is not very good at explaining things though. If you want to learn then you absolutely have to teach yourself almost everything. He kind of just expects you to know many things and understand things that he goes over very fast and shortly
+Tags: 
+
+---
+Date: 2025-04-08
+Course: CSE151A
+Rating: 4.0
+Difficulty: 1.0
+Comment: Incredibly easy: 5 HW's (~0-4 hours each) and a take-home midterm (24 hour window). Interesting lectures but not the best at explaining things. If you want to really want to learn ML in depth, you'll have to do it yourself.
+Tags: EXTRA CREDIT, Inspirational, Respected
+
+---
+Date: 2025-03-24
+Course: DSC148
+Rating: 3.0
+Difficulty: 2.0
+Comment: Lectures are very boring and difficult to understand. Concepts are complex but homeworks are easy. Midterm was hard, but points were awarded for trying, so it's easy to get a good grade in this class. Not too much work overall. Professor is nice but his explanations make things harder than they need to be.
+Tags: Group projects
+
+---
+Date: 2025-03-13
+Course: CSE151A
+Rating: 4.0
+Difficulty: 1.0
+Comment: The easiest CS class you will ever take. 5 homeworks (he drops 1) worth 15 percent each and a midterm worth 40 percent each. He allows and encourages us to use Chat GPT on everything we just have to cite it. No final at all which is amazing. I would say he could get a little better at teaching though. He expects us to just understand everything.
+Tags: 
+
+---
+Date: 2024-02-15
+Course: CSE151A
+Rating: 5.0
+Difficulty: 1.0
+Comment: He is a brilliant professor who brings machine learning to life with real-world examples and engaging lectures. Her dedication to student understanding and success is unparalleled, offering clear explanations and supportive guidance. Highly recommend her classes for an inspiring and practical learning journey.
+Tags: Amazing lectures, Gives good feedback, Hilarious
+
+---
+Date: 2023-06-17
+Course: CSE251A
+Rating: 3.0
+Difficulty: 1.0
+Comment: Decent lectures. Cool prof. Boring assignments because they are too easy. Please make the students use their brains (I am not asking to make the assignments longer, I feel they should be harder). Feels like an undergrad course because it's held together with 151A. Not as useful as a grad course.
+Tags: EXTRA CREDIT, Clear grading criteria, Caring
+
+---
+Date: 2022-05-25
+Course: CSE151A
+Rating: 3.0
+Difficulty: 3.0
+Comment: Teaches machine learning reasonably well, he cares about students.
+Tags: 
+
+---
+Date: 2022-05-22
+Course: CSE151A
+Rating: 5.0
+Difficulty: 2.0
+Comment: Wonderful professor. Easy homework. Lectures are clear and he provides further topics/research papers to explore on our own. Learned much in this course.
+Tags: Clear grading criteria, Graded by few things, Accessible outside class
+
+---
+Date: 2022-05-02
+Course: CSE151A
+Rating: 1.0
+Difficulty: 4.0
+Comment: Definitely an expert in ML, unfortunately this hurts his lectures for an intro ML course. Concepts, equations and their derivations feel rushed through and not thoroughly explained, as if it came naturally to him and thus it should come naturally to us too. Solutions to past hw and practice midterms are never posted, making it even harder to learn
+Tags: 
+
+---
+Date: 2022-04-15
+Course: CSE151A
+Rating: 2.0
+Difficulty: 2.0
+Comment: Although Shang is smart, I can already tell that his lectures are not it. He goes through derivations with very scarce explanation, skipping over many parts he probably views as trivial. This makes lecture extremely boring & causes people who don't get it initially to have to learn a significant portion of the course themselves (or ask questions).
+Tags: Respected
+
+---
+Date: 2021-06-15
+Course: CSE151A
+Rating: 4.0
+Difficulty: 3.0
+Comment: He's a pretty new professor, and there were definitely some hiccups along the way. There's no doubt he's very smart and capable, but sometimes he thinks we're just as smart as he is, lol. He's very receptive to feedback and listens to students, and he adjusted HW difficulty when he realized one of the HWs was too hard &amp; held many extra office hours
+Tags: Gives good feedback, Caring, EXTRA CREDIT
+
+---
+Date: 2021-06-06
+Course: CSE151A
+Rating: 1.0
+Difficulty: 3.0
+Comment: Horrible professor who did not make this class approachable for student not familiar with machine learning even though this was supposed to be an intro class. Lectures make no sense and everything for the homework has to be self-taught. Multiple people posted feedback on piazza during the course to try to make it better but nothing was changed.
+Tags: Lots of homework, Lecture heavy
+
+---
+Date: 2021-03-29
+Course: DSC190
+Rating: 5.0
+Difficulty: 1.0
+Comment: Best professor at the department!! Very efficient teaching style and lecture slides are clear as well.
+Tags: Accessible outside class, Caring, EXTRA CREDIT
+
+---
+Date: 2021-02-15
+Course: CSE191
+Rating: 5.0
+Difficulty: 3.0
+Comment: Talented and also very patient with students. During his office hour, he explained our questions very carefully until everyone understands, and stayed with us until very late. This class covers lots of useful and interesting topics and was a satisfying experience. Highly recommend!
+Tags: Respected, Accessible outside class, Caring
+
+---
+Date: 2020-06-27
+Course: DSC190
+Rating: 5.0
+Difficulty: 2.0
+Comment: Prof Shang was the most caring prof I've ever dealt with at UCSD. With the pandemic and the riots he cut the class alot of breaks. He truly cares about the students best interests and he knows that he can trust the students. Overall 10/10 prof would take again
+Tags: Gives good feedback, Group projects, Caring
+
+---
+Date: 2020-06-21
+Course: DSC190
+Rating: 5.0
+Difficulty: 3.0
+Comment: Has an accent but not a big problem. He is great in all other aspects. Responsible and patient.
+Tags:
