@@ -12,6 +12,9 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
+# Generated pipeline artifacts (rebuilt by ingest.py / embed.py)
+chunks.json
+
 # ChromaDB local storage
 chroma_db/
 chroma/
