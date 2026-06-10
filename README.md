@@ -110,7 +110,7 @@ Structural choices that reinforce grounding: each retrieved review is formatted 
 
 ## Evaluation Report
 
-The 5 questions below were run through the full system (`generate.py`). Retrieval was also tested in isolation first (`test_retrieval.py`) so retrieval failures can be told apart from generation failures. The exact, verbatim system responses follow the ratings table. (The generator runs at temperature 0.2, so wording may vary slightly on re-runs; these are copied from one recorded run.)
+The 6 questions below were run through the full system (`generate.py`); the last is an off-domain question the corpus can't answer, included to confirm the system refuses rather than hallucinating. Retrieval was also tested in isolation first (`test_retrieval.py`) so retrieval failures can be told apart from generation failures. The exact, verbatim system responses follow the ratings table. (The generator runs at temperature 0.2, so wording may vary slightly on re-runs; these are copied from one recorded run.)
 
 | # | Question | Expected answer | Retrieval quality | Response accuracy |
 |---|----------|-----------------|-------------------|-------------------|
@@ -119,6 +119,7 @@ The 5 questions below were run through the full system (`generate.py`). Retrieva
 | 3 | Which data science professor has the easiest classes? | Ambiguous in corpus — no professor is clearly "easiest". | Off-target | Partially accurate |
 | 4 | Are Soohyun Liao's lectures helpful? | Mixed — some call them messy/unorganized, others clear/amazing. | Relevant | Accurate |
 | 5 | Which professor should I avoid? | Lowest-rated / most negative: Soohyun Liao and Julian McAuley. | Partially relevant | Partially accurate |
+| 6 | What is the best dining hall at UCSD? | Out of scope — the corpus only has professor reviews, so the system should refuse. | Off-target (expected) | Accurate (correct refusal) |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -141,6 +142,11 @@ The 5 questions below were run through the full system (`generate.py`). Retrieva
 > Based on the available reviews, Soohyun Liao (DSC30, 2025-06-13, 2025-06-05) is consistently described as a professor to avoid, with students citing issues such as a lack of care for students, unresponsiveness to emails, poor explanations, and unfair grading (Soohyun Liao, DSC30, 2025-06-13, 2025-06-05).
 >
 > In contrast, reviews for Rajesh Gupta are mixed: while some students praise him as a great person who is open to adapting grades and answering questions (Rajesh Gupta, CSE30, 2010-03-19), others criticize his disorganization, incomprehensible speaking style, and unhelpful lectures (Rajesh Gupta, CSE30, 2010-03-18, 2010-02-24). However, the criticisms of Professor Gupta do not seem to be as severe or consistent as those of Professor Liao.
+
+**Q6 — What is the best dining hall at UCSD? (off-domain refusal test)**
+> The available reviews don't really cover that. They discuss professors and their classes, but none of them mention dining halls at UCSD.
+
+This question has no answer in the corpus (the closest retrieved chunks sat at low similarity, ~0.27–0.33). Instead of falling back on its training knowledge to name a dining hall, the system correctly refused — demonstrating that the grounding instruction holds even when retrieval returns only weakly-related chunks.
 
 A notable pattern: in the two weak-retrieval cases (Q3, Q5), the generation stage compensated feeding the numeric `rating`/`difficulty` into the context plus the "report consensus and refuse when uncovered" prompt kept the model honest instead of confidently wrong. Q3 still can't truly be answered.
 
