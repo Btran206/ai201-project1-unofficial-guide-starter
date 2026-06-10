@@ -62,11 +62,11 @@ The domain i chose is student reviews of professors at UCSD in the halıcıoğlu
 **Top-k:** 5 because each chunk is exactly one review. I shouldn't pick a singular review as the correct. Instead, I will use several so i can get a general consensus (e.g. "most students say X, though one disagrees"). Five reviews is a good baseline to start off and I will change accordingly based on the accuracy.
 
 **Production tradeoff reflection:**
-- **Accuracy on domain-specific text:** I'd use a higher-quality model (OpenAI `text-embedding-3-small`) if cost wasn't an issue or a larger local model (`all-mpnet-base-v2`, `bge-large-en-v1.5`) against my 5 eval questions. But since my corpus is pretty limited I don't think these options are necesarry. Student reviews vary, so I'd check whether a bigger model retrieves better on that noisy phrasing.
+- **Accuracy on domain-specific text:** I'd use a higher-quality model (OpenAI `text-embedding-3-small`) if cost wasn't an issue or a larger local model (`all-mpnet-base-v2`, `bge-large-en-v1.5`) against my 5 eval questions. But since my corpus is pretty limited I don't think these options are necessary. Student reviews vary, so I'd check whether a bigger model retrieves better on that noisy phrasing.
 - **Context length:** Not a factor here since each chunk is one short review well under any model's window.
 - **Multilingual support:** None. If I expanded to international student forums or non English reviews, I'd switch to a multilingual model like `paraphrase-multilingual-MiniLM-L12-v2` or Cohere's multilingual embed.
 - **Latency & cost:** With only 211 chunks, local inference is effective, so latency isn't a concern. In a production setting with thousands or hundreds of thousands of documents is when I would be concerned.
-
+S
 ---
 
 ## Evaluation Plan
@@ -76,13 +76,17 @@ The domain i chose is student reviews of professors at UCSD in the halıcıoğlu
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| # | Question | Expected answer | Why retrieval was strong / weak |
+|---|----------|-----------------|---------------------------------|
+| 1 | Which professor gives the most useful feedback? | Justin Eldridge — multiple reviews tagged "Gives good feedback"; Rajesh Gupta also noted for answering questions after class. | **Moderate (dist ~0.41–0.46).** The "Gives good feedback" tag is embedded in the chunk text, so it matched directly, but "useful feedback" is a soft concept spread across many reviews, so scores are mid-range rather than tight. |
+| 2 | Is Julian McAuley a tough grader? | Yes — widely described as a harsh grader who refuses to curve; many reviews tagged "Tough grader". | **Strong (dist ~0.22–0.27).** Both the professor name and the "Tough grader" tag live in the embedded text, so the query matched the *who* and the *what* at once — all 5 hits were McAuley, tightly clustered. |
+| 3 | Which data science professor has the easiest classes? | Ambiguous in the corpus — McAuley's CSE158 is "supposed to be" easy but reviewers say he made it hard; no professor is clearly identified as easiest. | **Weak.** Retrieval matched "data science professor" + positive sentiment and returned all-Justin-Eldridge reviews praising him, but they describe him as *great*, not *easy*. The embedding barely captured the "easiest"/difficulty axis — difficulty is poorly represented in free-text prose. |
+| 4 | Are Soohyun Liao's lectures helpful? | Mixed — opinions split: some call her lectures messy and unorganized, others call them amazing and caring. | **Strong (dist ~0.33–0.37).** The professor name anchored every hit to Soohyun Liao, and the returned set is genuinely mixed-sentiment — ideal for a consensus-style answer ("most say X, though some disagree"). |
+| 5 | Which professor should I avoid? | Based on lowest ratings / most negative reviews: Julian McAuley (many 1.0 ratings) and Soohyun Liao both have strongly negative reviews. | **Weak / mixed.** It surfaced real negative reviews (Soohyun Liao "worst professor I've ever had"), but hits [1] and [3] were *positive* Gupta reviews. Embeddings capture topic (discussion of professor quality) far better than polarity, so "avoid"/negative queries pull positive and negative reviews alike. |
+
+**What we're doing here and why.** Before building the generation stage, we ran these 5 questions through retrieval (`test_retrieval.py`) and scored each by cosine distance. The point is to separate retrieval quality from generation quality: if a final answer is wrong, we want to know whether the system retrieved the wrong reviews or retrieved the right reviews and then wrote a bad answer. Judging retrieval on its own tells us that. The "Why" column records the diagnosis for each query so the failures are traceable to a specific cause rather than a vague "it didn't work."
+
+The pattern across the five is consistent: retrieval is strong when a query names an entity or a concept that lives in the embedded text (Q2 professor name + "Tough grader" tag; Q4 professor name) and weak when a query depends on an axis the prose doesn't encode well (difficulty (Q3) and sentiment polarity (Q5)). Those two weak cases is why in the generation stage: I will (1)pass each retrieved review to the LLM with its numeric rating and difficulty as supporting evidence, so the model can reason about the difficulty/polarity that the embedding missed; and (2) the grounding prompt instructs the model to report the consensus and the disagreement and to refuse when the reviews don't cover the question, so mixed or off target retrieval produces an honest answer instead of a confidently wrong one.
 
 ---
 
