@@ -40,11 +40,11 @@ The domain i chose is student reviews of professors at UCSD in the halıcıoğlu
      State your chunk size (in tokens or characters), overlap size, and explain why those
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
-**Chunk size:** 700 characters
+**Chunk size:** One review per chunk. Chunks are variable length the embedded text runs roughly 56–459 characters (~14–115 tokens).
 
 **Overlap:** 0
 
-**Reasoning:** The documents are delimited by `---` so separating by this delimiter will give exactly one review. Doing anything else could cut a single review in half or merge two different reviews into one chunk which would hurt the accuracy of the RAG system. For that same reason there is no overlap. Every chunk fits inside the embedding model's 512-token window so nothing gets truncated.
+**Reasoning:** The documents are delimited by `---` so separating by this delimiter will give exactly one review. Doing anything else could cut a single review in half or merge two different reviews into one chunk which would hurt the accuracy of the RAG system. For that same reason there is no overlap. Because each chunk is a single short review, every chunk fits comfortably inside the embedding model's 512-token window so nothing gets truncated.
 
 **Final chunk count:** 211 (one chunk per review, across all 10 professor files).
 ---
@@ -66,7 +66,7 @@ The domain i chose is student reviews of professors at UCSD in the halıcıoğlu
 - **Context length:** Not a factor here since each chunk is one short review well under any model's window.
 - **Multilingual support:** None. If I expanded to international student forums or non English reviews, I'd switch to a multilingual model like `paraphrase-multilingual-MiniLM-L12-v2` or Cohere's multilingual embed.
 - **Latency & cost:** With only 211 chunks, local inference is effective, so latency isn't a concern. In a production setting with thousands or hundreds of thousands of documents is when I would be concerned.
-S
+
 ---
 
 ## Evaluation Plan
@@ -96,9 +96,9 @@ The pattern across the five is consistent: retrieval is strong when a query name
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. **Superlative and comparative questions don't fit top-k retrieval.** Questions like "which professor gives the *most* useful feedback?" or "the *easiest* classes" require comparing all 10 professors, but top-k=5 only ever sees 5 reviews drawn from one or two professors.
 
-2.
+2. **The corpus is small/uneven and partly stale.** Review counts range from 60 (McAuley) and 55 (Soohyun Liao) down to 4 (Arun Kumar) and 5 (Gal Mishne), so retrieval is biased toward heavily-reviewed professors and the thin ones yield weak, low-confidence consensus.
 
 ---
 
@@ -137,8 +137,32 @@ flowchart LR
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
+**AI tool:** Claude (Claude Code)
+
 **Milestone 3 — Ingestion and chunking:**
+- **Input:** My **Documents** table (so it knows there are 10 .txt files in documents/, one per professor) and my Chunking Strategy section (split on the `---` delimiter, 1 review = 1 chunk, no overlap, ~211 chunks total). I'll ask it to implement two functions: load_documents() to read every .txt file in documents/, and chunk_text() to split each file's contents on `---`.
+- **Expected Result:** A list of chunk objects where each chunk carries the review text plus metadata I'll need later for citation the source professor (derived from the filename, e.g. julian_mcauley.txt → "Julian McAuley") and the source filename. It should strip whitespace and and drop empty chunks(e.g. trailing `---` or blank reviews) so I don't embed garbage.
+- **How I'll verify the output matches my spec:**
+  1. Assert the total chunk count is 211 (matches my Chunking Strategy), and print a per-file count to confirm it lines up with the review counts in my Documents table (McAuley = 60, Soohyun Liao = 55, Arun Kumar = 4, etc.).
+  2. Spot-check 3–4 random chunks to confirm each contains exactly one review (no merged or split reviews) and that the professor metadata is correct.
+  3. Confirm no chunk is empty and none exceeds the 512-token window of `multi-qa-MiniLM-L6-cos-v1` (quick length check), so nothing gets truncated at embedding time.
 
 **Milestone 4 — Embedding and retrieval:**
+- **Input:** My Retrieval Approach section (embedding model `multi-qa-MiniLM-L6-cos-v1`, 384-dim, ChromaDB with cosine similarity, top-k=5) and the chunks.json produced in Milestone 3. I'll also give it the key design decision: embed only the natural language prose (professor name + tags + comment) and keep the structured fields (rating, difficulty, course, date, aggregate stats) as metadata that is stored alongside the vector but not embedded. I'll ask it to implement two scripts: embed.py to build the vector store and retrieve.py to query it.
+- **Expected Result:**
+  - embed.py loads chunks.json, encodes each chunk's text with `multi-qa-MiniLM-L6-cos-v1` (normalized embeddings, since it's a cosine model), and writes the vectors + documents + metadata into a persistent ChromaDB. Re-running it should rebuild the collection from scratch so it stays in sync with chunks.json.
+  - retrieve.py loads the model + collection once (so generation can reuse it without reloading per query), embeds a query with the same model and normalization as indexing, and returns the top-5 chunks with their text, metadata, cosine distance, and a similarity = 1 - distance score.
+- **How I'll verify the output matches my spec:**
+  - Confirm embed.py stores exactly 211 vectors and reports embedding dimension 384 (matches my Retrieval Approach).
+  - Check that the numeric fields stays out of the embedded text. Only professor + tags + comment should be in each chunk's text; rating/difficulty/date/course should appear only in metadata (this is the embedding-vs-metadata split, not a generation concern).
+  - Run a retrieval-only sanity check (test_retrieval.py) on my 5 evaluation questions and read the returned chunks + distance scores. Verify that entity/concept queries cluster tightly (e.g. "Is Julian McAuley a tough grader?" returns all-McAuley hits at low distance) and record where retrieval is weak (difficulty and sentiment-polarity queries) in my Evaluation Plan so the failures are traceable to retrieval rather than generation.
 
 **Milestone 5 — Generation and interface:**
+- **Input:** My pipeline diagram (Retrieval → Generation), my Retrieval Approach section, and the Retriever from Milestone 4. I'll give the AI my explicit requirements: (1) the grounding rule answer only from the retrieved review chunks, never from the model's training knowledge, and say so when the reviews don't cover the question, (2) the output format a written answer plus a separate list of the sources it drew from, (3) the LLM choice Groq's `llama-3.3-70b-versatile`, and (4) the decision for retrieved review should be passed to the model with its numeric rating + difficulty + tags as supporting evidence (the prose stays the primary source), so the model can reason about the difficulty and sentiment that retrieval embeds poorly. I'll ask it to implement generate.py and app.py (a Gradio interface wired to it).
+- **Expected Result:**
+  - generate.py builds the prompt by formatting each retrieved chunk into a numbered block (cite as (Professor, Course, Date) + the rating/difficulty/tags line + the comment), sends it to Groq with a grounding rules rather than suggesting it.
+  - app.py loads the model + collection once and starts up the Gradio Blocks UI. The source list is built programmatically from chunk metadata, not parsed out of the LLM's text, so attribution is guaranteed even if the model forgets to cite.
+- **How I'll verify the output matches my spec:**
+  - confirm the system prompt actually enforces grounding and that the source list is assembled in Python from metadata, not left to the LLM.
+  - ask "could this answer have come from anywhere other than the retrieved chunks?" For a covered question (e.g. "Is Julian McAuley a tough grader?") every claim should trace to a cited review; for a question my corpus doesn't cover (e.g. "Which dining hall has the best food?") the system must say it doesn't have enough information instead of inventing a plausible answer from general knowledge.
+  - Confirm the UI returns both the answer and the programmatic source list, and that the sources shown match the chunks actually retrieved (professor / course / date / similarity).
