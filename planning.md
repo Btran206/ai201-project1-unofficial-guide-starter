@@ -59,12 +59,12 @@ The domain i chose is student reviews of professors at UCSD in the halıcıoğlu
 
 **Embedding model:** I chose `multi-qa-MiniLM-L6-cos-v1` (via `sentence-transformers`) over the general-purpose model `all-MiniLM-L6-v2` because it was trained specifically for short natural-language questions matched against passages which makes sense for my use case (a student asks "Which professor gives useful feedback?" against a corpus of reviews). It's also free because it runs locally on the CPU.
 
-**Top-k:** 5 because each chunk is exactly one review and for my case, I shouldn't pick a singular review as the correct answer. In other words, I need several so i can get a general consensus (e.g. "most students say X, though one disagrees"). Five reviews is a good baseline to start off and I will change accordingly based on the accuracy.
+**Top-k:** 5 because each chunk is exactly one review. I shouldn't pick a singular review as the correct. Instead, I will use several so i can get a general consensus (e.g. "most students say X, though one disagrees"). Five reviews is a good baseline to start off and I will change accordingly based on the accuracy.
 
 **Production tradeoff reflection:**
 - **Accuracy on domain-specific text:** I'd use a higher-quality model (OpenAI `text-embedding-3-small`) if cost wasn't an issue or a larger local model (`all-mpnet-base-v2`, `bge-large-en-v1.5`) against my 5 eval questions. But since my corpus is pretty limited I don't think these options are necesarry. Student reviews vary, so I'd check whether a bigger model retrieves better on that noisy phrasing.
 - **Context length:** Not a factor here since each chunk is one short review well under any model's window.
-- **Multilingual support:** Nopne. If I expanded to international student forums or non English reviews, I'd switch to a multilingual model like `paraphrase-multilingual-MiniLM-L12-v2` or Cohere's multilingual embed.
+- **Multilingual support:** None. If I expanded to international student forums or non English reviews, I'd switch to a multilingual model like `paraphrase-multilingual-MiniLM-L12-v2` or Cohere's multilingual embed.
 - **Latency & cost:** With only 211 chunks, local inference is effective, so latency isn't a concern. In a production setting with thousands or hundreds of thousands of documents is when I would be concerned.
 
 ---
