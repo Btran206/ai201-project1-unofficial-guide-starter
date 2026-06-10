@@ -1,5 +1,0 @@
-Colleges have two kinds of knowledge: the official kind (course catalogs, housing handbooks, university websites) and the real kind — the stuff students actually share with each other to survive. Rate My Professor reviews. Subreddit threads about which dining hall is worth the walk. Anonymous posts about which off-campus apartments have mold problems. Discord servers where seniors tell freshmen what professors actually want on exams.
-
-In this project, you'll build The Unofficial Guide: a RAG (Retrieval-Augmented Generation) system that makes this kind of student-generated knowledge searchable and answerable. A user asks a plain-language question — "Is the housing lottery actually random?" or "Which CS professor gives the most useful feedback?" — and gets a grounded, cited answer drawn from real documents you collected.
-
-This is your first production AI project. More structure is provided here than in later projects — use it to build the habits (spec first, evaluate honestly, document completely) that you'll need when that structure is gone.
